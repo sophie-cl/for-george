@@ -1,0 +1,12 @@
+body {
+    background-image: url('frames/initial.png');
+    background-color: black;
+    background-repeat:   no-repeat;
+}
+
+
+button {
+    background-color: plum;
+    border-color: white;
+    float: right;
+}
